@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d46c5fa6cf894c6c9b3e8c9371ff1f2b, type: 3}
+  m_Name: Peashooter
+  m_EditorClassIdentifier: 
+  displayName: Peashooter
+  tag: 1
+  baseHealth: 100
+  baseAttack: 20
+  baseMoveSpeed: 0
+  attackInterval: 1.5
+  skillConfigs:
+  - {fileID: 11400000, guid: d8091e79fe7942928fc9bfe5b43a60d0, type: 2}

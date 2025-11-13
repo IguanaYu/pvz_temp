@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc3625d6ed141c19913e90609baf086, type: 3}
+  m_Name: PeaAttack
+  m_EditorClassIdentifier: 
+  cooldown: 1
+  enabledByDefault: 1
+  range: 8
+  damageMultiplier: 1
+  projectilePrefab: {fileID: 100000, guid: f9f980bc75d44e0fa8f6869c11a0e3d9, type: 3}
+  projectileSpeed: 6
